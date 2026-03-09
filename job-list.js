@@ -1,8 +1,8 @@
 const jCategories = [
     {
         index: 0,
-        images: "../images/google.png",
-        image: "../images/google.png",
+        images: "images/google.png",
+        image: "images/google.png",
         title: "Web Developer",
         rate: "₹50,000 - 60,000/m",
         av: "Full Time",
@@ -24,8 +24,8 @@ const jCategories = [
 
     {
         index: 1,
-        images: "../images/uber.png",
-        image: "../images/uber.png",
+        images: "images/uber.png",
+        image: "images/uber.png",
         title: "Freelancer",
         rate: "₹55,000 - 65,000/m",
         av: "Freelancer",
@@ -49,8 +49,8 @@ const jCategories = [
 
     {
         index: 2,
-        images: "../images/linkedin.png",
-        image: "../images/linkedin.png",
+        images: "images/linkedin.png",
+        image: "images/linkedin.png",
         title: "Business Associate",
         rate: "₹50,000 - 60,000/m",
         av: "Full Time",
@@ -73,9 +73,9 @@ const jCategories = [
     },
 
     {
-        index: 0,
-        images: "../images/facebook.png",
-        image: "../images/facebook.png",
+        index: 3,
+        images: "images/facebook.png",
+        image: "images/facebook.png",
         title: "Digital Marketer",
         rate: "₹45,000 - 55,000/m",
         av: "Full Time",
@@ -98,9 +98,9 @@ const jCategories = [
     },
 
     {
-        index: 0,
-        images: "../images/amazon2.png",
-        image: "../images/amazon2.png",
+        index: 4,
+        images: "images/amazon2.png",
+        image: "images/amazon2.png",
         title: "Software Engineer",
         rate: "₹50,000 - 60,000/m",
         av: "Full Time",
@@ -121,4 +121,5 @@ const jCategories = [
         education: "Bachelor’s degree in Computer Science, Software Engineering, Information Technology, or a related field.",
         skills: "Java, Python, or C++, data structures and algorithms, API development. Knowledge of databases, cloud services (AWS), Git, and software development best practices."
     },
+
 ];
